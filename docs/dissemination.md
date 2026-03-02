@@ -1,5 +1,10 @@
 Key methodological publications led or co-authored by the Foundational Methods pillar that form the basis of our current and upcoming work.
 
+## 2025
+---
+
+- **Finding a constrained number of predictor phenotypes for multiple outcome prediction.** *Reps JM, Wong J, Fridgeirsson EA, et al.* BMJ Health Care Inform. 2025. [doi.org/10.1136/bmjhci-2024-101227](https://doi.org/10.1136/bmjhci-2024-101227){:target="_blank" rel="noopener noreferrer"}.
+
 ## 2024
 ---
 

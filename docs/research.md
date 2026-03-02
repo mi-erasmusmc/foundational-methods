@@ -10,15 +10,15 @@ subgraph TOP[" "]
   direction LR
 
   subgraph P1["Context Aware Learning"]
-    A1["Utilize existing clinical knowledge from taxonomies and ontologies for clinical prediction"]
+    A1["Utilize existing clinical<br>knowledge from taxonomies and<br/>ontologies for clinical prediction"]
   end
 
   subgraph P2["Distributed Learning"]
-    A2["Decentralized training of foundational representations; parameter sharing and updating"]
+    A2["Decentralized training of<br/>foundational representations;<br/>parameter sharing and updating"]
   end
 
   subgraph P3["Temporal Learning"]
-    A3["Survival analysis, sequence modeling, time-to-event prediction, and risk stratification"]
+    A3["Survival analysis, sequence<br/>modeling, time-to-event prediction,<br/>and risk stratification"]
   end
 end
 
